@@ -66,6 +66,8 @@ Electric two-wheeler brands increasingly use game-like features such as ride tra
 
 **Reading:** women rated EV performance slightly higher, but the difference is not statistically significant. Note: the original report gave t = −1.715 and p = 0.070; recalculating Welch's test from the reported means and standard deviations gives t ≈ −1.50 and p ≈ 0.14. Both are above 0.05, so the conclusion is unchanged.
 
+![Satisfaction by gender](gender-satisfaction.png)
+
 ### H4: Age group and likelihood to consider an EV (chi-square)
 
 | Measure | Value |
@@ -84,6 +86,8 @@ Electric two-wheeler brands increasingly use game-like features such as ride tra
 | Believe gamification can address concerns like cost, range and charging | 81% |
 | Say gamification influenced their purchase | 44.4% |
 | See charging infrastructure as a major barrier | 45% |
+
+![Survey findings](survey-findings.png)
 
 ## 6. Reproducing the corrected tests in R
 
